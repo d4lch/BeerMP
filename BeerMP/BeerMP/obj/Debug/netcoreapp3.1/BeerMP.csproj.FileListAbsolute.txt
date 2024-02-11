@@ -1,0 +1,5 @@
+C:\Users\Dalch\Desktop\BeerMP\BeerMP\BeerMP\obj\Debug\netcoreapp3.1\BeerMP.csproj.AssemblyReference.cache
+C:\Users\Dalch\Desktop\BeerMP\BeerMP\BeerMP\obj\Debug\netcoreapp3.1\BeerMP.Properties.Resources.resources
+C:\Users\Dalch\Desktop\BeerMP\BeerMP\BeerMP\obj\Debug\netcoreapp3.1\BeerMP.csproj.GenerateResource.cache
+C:\Users\Dalch\Desktop\BeerMP\BeerMP\BeerMP\obj\Debug\netcoreapp3.1\BeerMP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dalch\Desktop\BeerMP\BeerMP\BeerMP\obj\Debug\netcoreapp3.1\BeerMP.csproj.CoreCompileInputs.cache
